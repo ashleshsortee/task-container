@@ -1,0 +1,13 @@
+{
+  "name": "task-container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  },
+  "dependencies": {
+    "data.task": "^3.1.2",
+    "folktale": "^2.3.0"
+  }
+}
